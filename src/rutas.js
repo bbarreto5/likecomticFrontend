@@ -7,7 +7,7 @@ const rutas =[
         component: Template1
     },{
         path: "/v2",
-        component: ()=><h1>principal v2</h1>
+        component: Template1
     }
 ]
 
